@@ -1,4 +1,4 @@
----
+***
 <h1 align="left">Hi! 👋, I'm Eichi</h1>
 
 ### ❖ About me
