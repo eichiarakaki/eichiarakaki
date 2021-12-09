@@ -5,7 +5,7 @@
 > A passionate low-level developer from Japan
 
 
-### ❖ Scials
+### ❖ Socials
 - Instagram: @eichi.arakaki
 - Discord: Eiji#0002
 - Email: justanunusualperson@gmail.com
