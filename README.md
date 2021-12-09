@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Eichi</h1>
-<h3 align="center">A passionate low-level developer from Japan</h3>
+<br/>
+<h1 align="left">Hi 👋, I'm Eichi</h1>
+
+About me
+> A passionate low-level developer from Japan
 
 - 🌱 I’m currently learning **Rust with the ACTIX framework**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Eichi-Arakaki?tab=repositories](https://github.com/Eichi-Arakaki?tab=repositories)
 
 - 📫 How to reach me **justanunusualperson@gmail.com**
 
@@ -11,7 +12,6 @@
 
 - ⚡ Fun fact **I don't have many projects since I spend most of my time just learning.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
