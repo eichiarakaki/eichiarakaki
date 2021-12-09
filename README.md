@@ -1,7 +1,7 @@
 <br/>
 <h1 align="left">Hi 👋, I'm Eichi</h1>
 
-About me
+### ❖ About me
 > A passionate low-level developer from Japan
 
 - 🌱 I’m currently learning **Rust with the ACTIX framework**
