@@ -1,14 +1,8 @@
-<br/>
+---
 <h1 align="left">Hi 👋, I'm Eichi</h1>
 
 ### ❖ About me
 > A passionate low-level developer from Japan
-
-- 🌱 I’m currently learning **Rust with the ACTIX framework**
-
-- 📫 How to reach me **justanunusualperson@gmail.com**
-
-- 📄 Know about my experiences [Not yet made](Not yet made)
 
 - ⚡ Fun fact **I don't have many projects since I spend most of my time just learning.**
 
