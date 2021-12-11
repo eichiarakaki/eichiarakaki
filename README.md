@@ -10,7 +10,7 @@
 - Email: justanunusualperson@gmail.com
 
 #### ❖ I’m currently learning
-> Rust with the ACTIX framework.
+> Nim and Haskell.
 
 ---
 
