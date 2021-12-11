@@ -9,8 +9,8 @@
 - Discord: Eiji#0002
 - Email: justanunusualperson@gmail.com
 
-#### ❖ Fun fact
-> I don't have many projects since I spend most of my time just learning.
+#### ❖ I’m currently learning
+> Rust with the ACTIX framework.
 
 ---
 
