@@ -9,7 +9,7 @@
 - Discord: Eiji#0002
 - Email: justanunusualperson@gmail.com
 
-####  I’m currently learning
+#### ❖ I’m currently learning
 > Nim and Haskell.
 
 ---
