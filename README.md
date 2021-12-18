@@ -10,7 +10,7 @@
 - Email: justanunusualperson@gmail.com
 
 #### ❖ I’m currently learning
-> Nim and Haskell.
+> Nim.
 
 ---
 
