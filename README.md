@@ -9,9 +9,6 @@
 - Discord: Eiji#0002
 - Email: justanunusualperson@gmail.com
 
-#### ❖ I’m currently learning
-> Nim
-
 ---
 
 <h3 align="center">Languages and Tools</h3>
