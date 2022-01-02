@@ -1,5 +1,5 @@
 ***
-<h1 align="left">Hey! I'm Eichi 👋</h1>
+<h1 align="left">Hey! I'm Eichi!!</h1>
 
 ### ❖ About me
 > A passionate low-level developer from Japan
@@ -8,7 +8,6 @@
 - Instagram: @eichi.arakaki
 - Discord: Eiji#0002
 - Email: justanunusualperson@gmail.com
-- a
 
 ---
 
