@@ -6,7 +6,7 @@
 
 ### ❖ Socials
 - Instagram: @eichi.arakaki
-- Discord: Eiji#0002
+- Discord: Eiji#0001
 - Email: justanunusualperson@gmail.com
 
 ---
